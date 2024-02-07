@@ -1,0 +1,31 @@
+<div> and <section>:
+
+    <div> :
+        The <div> element is a generic container used to group together related elements or to divide a webpage into sections for styling purposes.
+        It doesn't convey any specific meaning or semantics to search engines or assistive technologies.
+        It's typically used when there isn't a more appropriate semantic element available.
+
+    <section>:
+        The <section> element is used to define a thematic grouping of content, typically representing a section of a document or webpage.
+        It's often used to organize related content and give it a meaningful structure(Such as the comments section, latest articles, etc).
+        <section> elements are semantically meaningful, providing context to search engines and assistive technologies.
+
+<div> is a generic container for grouping content, while <section> is a semantic element used to represent thematic groupings of content within a document.
+Choosing between them depends on the specific meaning and purpose of the content you're structuring.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+<p> and <article>:
+
+    <p>:
+        The <p> tag is used to define a paragraph of text.
+        It is typically used for blocks of text content.
+        It is inline-level content, meaning it flows with the surrounding text.
+        It does not inherently carry any semantic meaning beyond denoting a paragraph.
+
+    <article>:
+        The <article> tag is used to define an independent, self-contained piece of content.
+        It represents a complete composition in a document, such as a blog post, newspaper article, forum post, etc.
+        It can include other elements like headings, paragraphs, images, etc., that collectively form a standalone piece of content.
+        It is a block-level element, meaning it typically creates a block of content that starts on a new line and fills the width of its container.
+
+<p> is used for individual paragraphs within content, while <article> is used for larger, standalone content pieces that may contain multiple paragraphs 
+and other elements.
